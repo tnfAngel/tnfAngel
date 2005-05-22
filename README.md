@@ -4,10 +4,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfAngel" /></p>
 <hr/>
 
-- 🔭 I’m currently working on **[FNLB](https://fnlb.net)**
-- 👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
-- 📫 How to reach me: **contact@tnfangel.xyz**
-
+-   🔭 I’m currently working on **[FNLB](https://fnlb.net)**
+-   👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
+-   📫 How to reach me: **contact@tnfangel.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
