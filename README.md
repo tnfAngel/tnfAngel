@@ -1,4 +1,4 @@
-### 👋 Hello! I'm tnfAngel, a Full-Stack web & Android developer, Cyber Security Analyst & Open Source Enthusiast
+### 👋 ¡Hola! Soy tnfAngel, un desarrollador Web y Android Full-Stack, Analista de Ciberseguridad y Contribuidor OSS.
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tnfAngel&show_icons=true&count_private=true&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
