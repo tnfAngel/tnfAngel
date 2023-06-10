@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **See Bot**
 
-- 👨‍💻 All of my projects are available at [tnfangel.xyz](tnfangel.xyz)
+- 👨‍💻 All of my projects are available at [tnfangel.xyz](https://www.tnfangel.xyz)
 
 - 📫 How to reach me **contact@tnfangel.xyz**
 
