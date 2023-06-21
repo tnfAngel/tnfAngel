@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfangel" /></p>
 
-- 🔭 I’m currently working on **See Bot**
+- 🔭 I’m currently working on **FNLB**
 
-- 👨‍💻 All of my projects are available at [tnfangel.xyz](https://www.tnfangel.xyz)
+- 👨‍💻 All of my projects are available at [tnfAngel.xyz](https://www.tnfangel.xyz)
 
 - 📫 How to reach me **contact@tnfangel.xyz**
 
