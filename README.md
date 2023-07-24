@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FNLB**
 
-- 👨‍💻 All of my projects are available at [tnfAngel.xyz](https://www.tnfangel.xyz)
+- 👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
 
 - 📫 How to reach me **contact@tnfangel.xyz**
 
