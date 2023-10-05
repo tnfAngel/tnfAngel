@@ -4,7 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfangel" /></p>
 
- - 🔭 I’m currently working on **[FNLB](https://fnlb.net)**
 
  - 👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
 
@@ -12,9 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tnfAngel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/tnfAngel" target="blank"><img align="center" src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="Youtube" height="30" width="40" /></a>
-<a href="https://discord.gg/8RNAdpK" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
