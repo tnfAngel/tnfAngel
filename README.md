@@ -23,4 +23,6 @@
   <img src="https://gh-stats.tnfangel.xyz/api/top-langs/?username=tnfAngel&count_private=true&layout=compact&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222" height="180">
 </p>
 
+<img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/output/snake.svg" alt="Snake animation" />
+
 <a href="https://www.fnlb.net/discord"><img src="https://discord.com/api/guilds/1106879710744543303/widget.png?style=banner2"></a>
