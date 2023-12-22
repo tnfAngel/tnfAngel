@@ -1,8 +1,8 @@
-<h1 align="center" style="border-bottom: none">Hey 👋, I'm tnfAngel</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/wave.gif" width="30" />, I'm tnfAngel</h1>
 <p align="center"><img src="https://github.com/tnfAngel/tnfAngel/assets/57068341/25c73d00-10fb-4ec9-800a-2d2c08637fde" alt="Separator" /></p>
 <h3 align="center">a Full-Stack Android and Web Developer, Cybersecurity Analyst and OSS Contributor.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfAngel" /></p>
-<hr />
+<hr/>
 
 - 🔭 I’m currently working on **[FNLB](https://fnlb.net)**
 - 👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
