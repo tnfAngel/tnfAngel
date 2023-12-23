@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/wave.gif" width="30" />, $\textcolor{#ff0067}{I'm\ tnfAngel}$</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/wave.gif" width="30" />, $\textcolor{#ff0067}{I'm\ tnfAngel}$ <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/logo.webp" width="30" style="border-radius: 50%" /></h1>
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
 <h3 align="center">a Full-Stack Android and Web Developer, Cybersecurity Analyst and OSS Contributor.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfAngel" /></p>
