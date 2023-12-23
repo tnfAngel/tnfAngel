@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[FNLB](https://fnlb.net)**
 - 👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
-- 📫 How to reach me **contact@tnfangel.xyz**
+- 📫 How to reach me: **contact@tnfangel.xyz**
 
 
 <h3 align="left">Connect with me:</h3>
