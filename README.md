@@ -15,7 +15,7 @@
 <a href="https://fnlb.net/discord" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=ts,bun,nextjs,nodejs,js,html,css,androidstudio,arduino,bash,blender,bootstrap,cs,cpp,cloudflare,dart,deno,discord,bots,docker,electron,express,flutter,git,github,githubactions,jest,linux,md,mongodb,nestjs,netlify,nginx,nix,postman,powershell,py,react,redis,redux,regex,sentry,svg,tauri,tensorflow,threejs,unity,unreal,vercel,visualstudio,workers&perline=17" width="100%">
+<a href="https://github.com/tnfAngel" target="blank"><img src="https://skillicons.dev/icons?i=ts,bun,nextjs,nodejs,js,html,css,androidstudio,arduino,bash,blender,bootstrap,cs,cpp,cloudflare,dart,deno,discord,bots,docker,electron,express,flutter,git,github,githubactions,jest,linux,md,mongodb,nestjs,netlify,nginx,nix,postman,powershell,py,react,redis,redux,regex,sentry,svg,tauri,tensorflow,threejs,unity,unreal,vercel,visualstudio,workers&perline=17" width="100%"></a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
 <p align="center">
