@@ -1,7 +1,9 @@
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/wave.gif" width="30" />, $\textcolor{#ff0067}{I'm\ tnfAngel}$ <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/logo.webp" width="30" style="border-radius: 50%" /></h1>
 <h3 align="center">a Full-Stack Android and Web Developer, Cybersecurity Analyst and OSS Contributor.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfAngel" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
+<img align="right" src="https://discord-readme-badge.vercel.app/api?id=456361646273593345">
 
 -   🔭 I’m currently working on **[FNLB](https://fnlb.net)**
 -   👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
@@ -22,10 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnfAngel&count_private=true&layout=compact&title_color=ff0067&text_color=9f9f9f&icon_color=ff0067&bg_color=222222" height="180">
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/output/snake.svg" alt="Snake animation" />
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/output/snake.svg" alt="Snake animation" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
-<p align="center">
-<a href="https://www.fnlb.net/discord"><img src="https://discord.com/api/guilds/1106879710744543303/widget.png?style=banner2"></a>
-</p>
+<p align="center"><a href="https://www.fnlb.net/discord"><img src="https://discord.com/api/guilds/1106879710744543303/widget.png?style=banner2"></a></p>
