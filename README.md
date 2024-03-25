@@ -7,13 +7,13 @@
 
 -   🔭 I’m currently working on **[FNLB](https://fnlb.net)**
 -   👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
--   📫 How to reach me: **contact@tnfangel.xyz**
+-   📫 How to reach me: **contact@tnfangel.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fnlb.net/discord" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" /></a>
 <a href="https://twitter.com/tnfAngel" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" /></a>
-<a href="mailto:contact@tnfangel.xyz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
+<a href="mailto:contact@tnfangel.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://github.com/tnfAngel" target="blank"><img src="https://skillicons.dev/icons?i=ts,bun,nextjs,nodejs,js,html,css,androidstudio,arduino,bash,blender,bootstrap,cs,cpp,cloudflare,dart,deno,discord,bots,docker,electron,express,flutter,git,github,githubactions,jest,linux,md,mongodb,nestjs,netlify,nginx,nix,postman,powershell,py,react,redis,redux,regex,sentry,go,tauri,tensorflow,threejs,unity,unreal,vercel,visualstudio,workers&perline=17" width="100%"></a>
