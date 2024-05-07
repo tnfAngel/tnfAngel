@@ -1,12 +1,13 @@
-
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/wave.gif" width="30" />, $\textcolor{#ff0067}{I'm\ tnfAngel}$ <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/logo.webp" width="30" style="border-radius: 50%" /></h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/wave.gif" width="30" />, $\textcolor{#ff0067}{I'm\ tnfAngel}$
+<img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/logo.webp" width="30" style="border-radius: 50%" /></h1>
+<img src="https://github.com/tnfAngel/tnfAngel/assets/57068341/872ac87a-1e6a-4600-935b-8ce3948133c9" width="100%"  />
 <h3 align="center">a Full-Stack Android and Web Developer, Cybersecurity Analyst and OSS Contributor.</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfAngel" /></p>
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
 <img align="right" src="https://discord-readme-badge.vercel.app/api?id=456361646273593345">
 
 -   🔭 I’m currently working on **[FNLB](https://fnlb.net)**
--   👨‍💻 My website [tnfAngel.xyz](https://www.tnfangel.xyz)
+-   👨‍💻 My website [www.tnfAngel.com](https://www.tnfangel.com)
 -   📫 How to reach me: **contact@tnfangel.com**
 
 <h3 align="left">Connect with me:</h3>
