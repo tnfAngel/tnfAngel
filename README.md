@@ -7,8 +7,8 @@
 <img align="right" src="https://discord-readme-badge.vercel.app/api?id=456361646273593345">
 
 -   🔭 I’m currently working on **[FNLB](https://fnlb.net)**
--   👨‍💻 My website [www.tnfAngel.com](https://www.tnfangel.com)
--   📫 How to reach me: **contact@tnfangel.com**
+-   👨‍💻 My website **[www.tnfAngel.com](https://www.tnfangel.com)**
+-   📫 How to reach me: **[contact@tnfAngel.com](mailto:contact@tnfangel.com?subject=Contact%20tnfAngel)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
