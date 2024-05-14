@@ -20,7 +20,7 @@
 <a href="mailto:contact@tnfangel.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://github.com/tnfAngel" target="blank"><img src="https://skillicons.dev/icons?i=ts,bun,nextjs,nodejs,js,html,css,androidstudio,arduino,bash,blender,bootstrap,cs,cpp,cloudflare,dart,deno,discord,rust,docker,electron,express,flutter,git,github,githubactions,jest,linux,md,mongodb,nestjs,netlify,nginx,nix,postman,powershell,py,react,redis,redux,regex,sentry,go,tauri,tensorflow,threejs,unity,unreal,vercel,visualstudio,workers&perline=17" width="100%"></a>
+<a href="https://github.com/tnfAngel" target="blank"><img src="https://skillicons.dev/icons?i=ts,bun,nextjs,nodejs,js,html,css,androidstudio,arduino,bash,blender,bootstrap,cs,cpp,cloudflare,dart,deno,discord,rust,docker,electron,express,flutter,git,github,githubactions,jest,linux,md,mongodb,elysia,netlify,nginx,nix,postman,powershell,py,react,redis,redux,regex,sentry,go,tauri,tensorflow,threejs,unity,unreal,vercel,visualstudio,workers,kotlin,ubuntu,kubernetes&perline=18" width="100%"></a>
 
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
 
