@@ -2,21 +2,20 @@
 <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/logo.webp" width="30" style="border-radius: 50%" /></h1>
 <img src="https://github.com/tnfAngel/tnfAngel/assets/57068341/872ac87a-1e6a-4600-935b-8ce3948133c9" width="100%"  />
 <h3 align="center">a Full-Stack Web & Mobile Developer, Cybersecurity Analyst and OSS Contributor.</h3>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfAngel" /></p>
+
 
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
 
 <h3 align="left">Summary:</h3>
 <img align="right" src="https://discord-readme-badge.vercel.app/api?id=456361646273593345">
 
+-   👨‍💻 My website **[www.tnfAngel.com](https://www.tnfangel.com)** 
 -   🔭 I’m currently working on **[FNLB](https://fnlb.net)**
--   👨‍💻 My website **[www.tnfAngel.com](https://www.tnfangel.com)**
 -   📫 How to reach me: **[contact@tnfAngel.com](mailto:contact@tnfangel.com?subject=Contact%20tnfAngel)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fnlb.net/discord" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="45" /></a>
-<a href="https://twitter.com/tnfAngel" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="45" /></a>
 <a href="mailto:contact@tnfangel.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="45" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
