@@ -7,7 +7,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
 
 <h3 align="left">Summary:</h3>
-<img align="right" src="https://discord-readme-badge.vercel.app/api?id=456361646273593345">
 
 -   👨‍💻 My website **[www.tnfAngel.com](https://www.tnfangel.com)** 
 -   🔭 I’m currently working on **[FNLB](https://fnlb.net)**
