@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/logo.webp" width="30" style="border-radius: 50%" /></h1>
 <img src="https://github.com/tnfAngel/tnfAngel/assets/57068341/872ac87a-1e6a-4600-935b-8ce3948133c9" width="100%"  />
 <h3 align="center">a Full-Stack Web & Mobile Developer, Cybersecurity Analyst and OSS Maintainer.</h3>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tnfangel&label=Profile%20views&color=ff0067&style=flat-square" alt="tnfAngel" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/tnfAngel/tnfAngel/main/assets/separator.png" alt="Separator" /></p>
 
